@@ -1,2 +1,0 @@
-# CPFvalidator
-Simple CPF validator
